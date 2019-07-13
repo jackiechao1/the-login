@@ -131,7 +131,7 @@ audio {
     margin: 0 auto;
 }
 
-button {
+a {
       margin: 100px;
      -moz-box-shadow:inset 0px 1px 0px 0px #FAF4ED;
      -webkit-box-shadow:inset 0px 1px 0px 0px #FAF4ED;
@@ -157,5 +157,5 @@ button {
      padding:24px 96px;
      text-decoration:none;
      text-shadow:0px 1px 0px #FDDBB7;
-     font-size: 2em;
+     font-size: 2
     }
