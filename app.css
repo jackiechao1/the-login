@@ -90,3 +90,72 @@ audio {
   width: calc(100% - 20px);
 }
 
+.login {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  }
+  
+  img {
+      height: 200px;
+      width: 280px;
+      margin-bottom: -60px;
+      margin-right: 
+    }
+
+  .header {
+    display:block;
+    height: 400px;
+  }
+
+  h1 {
+    font-size: 5em;
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  h3 {
+      font-variant: small-caps;
+      font-size: 3em;
+      text-align: center;
+      margin-top: 50px;
+    }
+
+}
+
+.login-buttons {
+    display:flex;
+    justify-content: center;
+    max-width: 48px;
+    margin: 0 auto;
+}
+
+button {
+      margin: 100px;
+     -moz-box-shadow:inset 0px 1px 0px 0px #FAF4ED;
+     -webkit-box-shadow:inset 0px 1px 0px 0px #FAF4ED;
+     box-shadow:inset 0px 1px 0px 0px #FAF4ED;
+     background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #FAECDE), color-stop(1, #FDDBB7));
+     background:-moz-linear-gradient(top, #FAECDE 5%, #FDDBB7 100%);
+     background:-webkit-linear-gradient(top, #FAECDE 5%, #FDDBB7 100%);
+     background:-o-linear-gradient(top, #FAECDE 5%, #FDDBB7 100%);
+     background:-ms-linear-gradient(top, #FAECDE 5%, #FDDBB7 100%);
+     background:linear-gradient(to bottom, #FAECDE 5%, #FDDBB7 100%);
+     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FAECDE', endColorstr='#FDDBB7',GradientType=0);
+     background-color:#FAECDE;
+     -moz-border-radius:6px;
+     -webkit-border-radius:6px;
+     border-radius:6px;
+     border:1px solid #FDDBB7;
+     display:inline-block;
+     cursor:pointer;
+     color:#003636;
+     font-variant:small-caps;
+     font-size:15px;
+     font-weight:bold;
+     padding:24px 96px;
+     text-decoration:none;
+     text-shadow:0px 1px 0px #FDDBB7;
+     font-size: 2em;
+    }
