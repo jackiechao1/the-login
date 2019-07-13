@@ -73,6 +73,8 @@ h1 {
   letter-spacing: 2px;
   font-size: 2em;
   margin-bottom: 0;
+  text-align: center;
+  margin-top: 100px;
 }
 
 canvas {
@@ -109,18 +111,14 @@ audio {
     height: 400px;
   }
 
-/*  h1 {
-    font-size: 3em;
-    text-align: center;
-    margin-top: 100px;
-  }
+
 
   h3 {
       font-variant: small-caps;
       font-size: 1em;
       text-align: center;
       margin-top: 50px;
-    }*/
+    }
 
 }
 
